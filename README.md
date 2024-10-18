@@ -1,15 +1,14 @@
-</div-->
-    <div align ="center">
-        <p>
-         <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" alt="HuggingFace">
-        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/5b25e63e-4838-45e4-b87f-ea5f734688af" alt="OpenCV">
-        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/8c167abf-edfc-4cd3-8a64-69a2064f19c3" alt="Langchain">
-        </p>
-    </div>
+<div align="center">
+    <p>
+        <img src="https://github.com/Ghilth/Ghilth/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" alt="HuggingFace" width="80">
+        <img src="https://github.com/Ghilth/Ghilth/assets/90460864/5b25e63e-4838-45e4-b87f-ea5f734688af" alt="OpenCV" width="80">
+        <img src="https://github.com/Ghilth/Ghilth/assets/90460864/8c167abf-edfc-4cd3-8a64-69a2064f19c3" alt="Langchain" width="80">
+    </p>
+</div>
 
 ## Welcome to my World 👋 I'm Ghilth GBAGUIDI 😎
 
-<img align="right"  src='https://github.com/princegedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
+<img align="right"  src='https://github.com/princegedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300' alt='AI and ML image'>
 
 ### Machine Learning Specialist - Computer Vision - NLP
 
@@ -17,101 +16,78 @@ I am a third-year Bachelor's student in Artificial Intelligence, with a passion 
 
 I love solving problems using technology and am dedicated to sharing my knowledge by teaching data science concepts.
 
-
 - 🌱 I’m currently learning about computer vision and NLP specialization
-- 👯 I’m looking to collaborate on the projects about Computer vision
+- 👯 I’m looking to collaborate on projects related to Computer Vision
 - 💬 Ask me about **Machine Learning, Computer Vision, NLP**
 - 📫 How to reach me: **ghilthg@gmail.com**
 
+<br>
 
-    
-<p align=center>
-<div align=center>
-    <a href="https://github.com/Ghilth/My_profile" title="Go to Source">
-        <img align="left" width=390
-            src="https://github-readme-stats.vercel.app/api?username=ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&since=2024-01-01T00:00:00Z"/>
+<div align="center">
+    <a href="https://github.com/Ghilth/My_profile" title="GitHub Stats">
+        <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" alt="Ghilth's GitHub Stats"/>
     </a>
-    <a href="https://github.com/Ghilth/My_profile" title="Go to Source">
-        <img align="right" width=390
-            src="https://github-readme-streak-stats.herokuapp.com/?user=ghilth_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
+    <a href="https://github.com/Ghilth/My_profile" title="GitHub Streak">
+        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ghilth&theme=codeSTACKr&hide_border=true" alt="Ghilth's GitHub Streak" />
     </a>
-  
 </div>
-<br><br><br><br><br><br><br><br><br>
 
-<div >
-    <p align="center">
-        <a href="https://github.com/Ghilth/My_profile" title="Go to Source">
-        <img align="right" width=390
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghilth&layout=compact&theme=codeSTACKr&hide_border=true" />
+<br><br><br><br><br><br><br><br>
+
+<div align="center">
+    <p>
+        <a href="https://github.com/Ghilth/My_profile" title="Most Used Languages">
+            <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghilth&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages Used" />
         </a>
-        <a href="https://github.com/Ghilth/Bible_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=Bible_bot" alt="Readme Card"></a>
-        
-<a href="https://github.com/Ghilth/PhotoEditor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=PhotoEditor" alt="Readme Card"></a>
+        <a href="https://github.com/Ghilth/Bible_bot" title="Bible Bot Project">
+            <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Ghilth&repo=Bible_bot&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Bible Bot Project" />
+        </a>
+        <a href="https://github.com/Ghilth/PhotoEditor" title="Photo Editor Project">
+            <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Ghilth&repo=PhotoEditor&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Photo Editor Project" />
+        </a>
     </p>
 </div>
 
 <br><br><br>
 
 <!-- START NEW SECTION -->
-<h3 align="center">Social links</h3>
+<h3 align="center">🌐 Social Links</h3>
 <p align="center">
-    <a href="https://github.com/ghilth" target="blank" > <img align="center"
-                        src="github.svg"
-                        alt="Ghilth GBAGUIDI" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/ghilth" target="blank" > <img align="center"
-                        src="link.svg"
-                        alt="Ghilth GBAGUIDI" height="30" width="40" /></a>
-    
+    <a href="https://github.com/Ghilth" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/ghilth" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
 </p>
 
 <br>
 
-<h3 align="center">Github trophy</h3>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+    <a href="https://github-profile-trophy.vercel.app/?username=Ghilth" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=Ghilth&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
+    </a>
+</p>
 
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=eliakimceleste)](https://github-profile-trophy.vercel.app/?username=ghilth)
+<br>
 
 <!-- START NEW SECTION -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ghilth}/count.svg" /></p> 
-<br></div>
-
-
-
+    <p><b>Visitors Count</b></p>  
+    <p><img src="https://profile-counter.glitch.me/{Ghilth}/count.svg" alt="Visitors Count" /></p> 
+</div>
 
 <p align="center">
-<!-- <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
- <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
-<!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
+    <img height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix background animation" />
 </p>
+
 <hr>
 
-  <div>
-            <h2 align="center"> 💻 Github Contributions :electron: </h2>
-            <br>
-            <div align="center">
-                    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghilth&color=FF7F00&bg_color=09131B&line=FF7F00&point=FF7F00&area_color=000000&hide_border=true&area=true"
-                    alt="readme active graph" />
-  </div>
-
-
-
-
-
-
-<!--
-**eliakimceleste/eliakimceleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <h2 align="center">💻 GitHub Contributions</h2>
+    <br>
+    <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghilth&bg_color=09131B&color=FF7F00&line=FF7F00&point=FF7F00&hide_border=true&area=true" alt="GitHub Contributions Graph" />
+    </div>
+</div>
