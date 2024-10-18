@@ -29,11 +29,11 @@ I love solving problems using technology and am dedicated to sharing my knowledg
 <div align=center>
     <a href="https://github.com/Ghilth/My_profile" title="Go to Source">
         <img align="left" width=390
-            src="https://github-readme-stats.vercel.app/api?username=ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&since=2024-01-01T00:00:00Z"/>
+            src="https://github-readme-stats.vercel.app/api?username=Ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&since=2024-01-01T00:00:00Z"/>
     </a>
     <a href="https://github.com/Ghilth/My_profile" title="Go to Source">
         <img align="right" width=390
-            src="https://github-readme-streak-stats.herokuapp.com/?user=ghilth_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Ghilth_format=M%20j%5B%2C%20Y%5D&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
     </a>
   
 </div>
@@ -43,11 +43,11 @@ I love solving problems using technology and am dedicated to sharing my knowledg
     <p align="center">
         <a href="https://github.com/Ghilth/My_profile" title="Go to Source">
         <img align="right" width=390
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghilth&layout=compact&theme=codeSTACKr&hide_border=true" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghilth&layout=compact&theme=codeSTACKr&hide_border=true" />
         </a>
-        <a href="https://github.com/Ghilth/Bible_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=CodeWhiz" alt="Readme Card"></a>
+        <a href="https://github.com/Ghilth/Bible_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=Bible_bot" alt="Readme Card"></a>
         
-<a href="https://github.com/Ghilth/PhotoEditor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=CodeWhiz" alt="Readme Card"></a>
+<a href="https://github.com/Ghilth/PhotoEditor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghilth&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=PhotoEditor" alt="Readme Card"></a>
     </p>
 </div>
 
