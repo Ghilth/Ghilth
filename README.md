@@ -40,7 +40,7 @@ I love solving problems using technology and am dedicated to sharing my knowledg
             <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghilth&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages Used" />
         </a>
         <a href="https://github.com/Ghilth/Bible_bot" title="Bible Bot Project">
-            <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Ghilth&repo=Bible_bot&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Bible Bot Project" />
+            <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Ghilth&repo=Bible_bot_2&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Bible Bot Project" />
         </a>
         <a href="https://github.com/Ghilth/PhotoEditor" title="Photo Editor Project">
             <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Ghilth&repo=PhotoEditor&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Photo Editor Project" />
